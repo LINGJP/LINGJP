@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![LINGJP's github stats](https://github-readme-stats.vercel.app/api?username=LINGJP)](https://github.com/LINGJP)
+[![LINGJP's github stats](https://github-readme-stats.vercel.app/api?username=LINGJP&show_icons=true&theme=radical&hide=prs)](https://github.com/LINGJP)
 
 <!--
 **LINGJP/LINGJP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
