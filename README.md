@@ -1,8 +1,4 @@
 ### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LINGJP&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
-
-[![LINGJP's github stats](https://github-readme-stats.vercel.app/api?username=LINGJP&show_icons=true&theme=radical&hide=prs&include_all_commits=true)](https://github.com/LINGJP)
-
 <!--
 **LINGJP/LINGJP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,3 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Liam Luo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lingjp&show_icons=true&include_all_commits&count_private=true)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lingjp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
